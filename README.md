@@ -104,7 +104,7 @@ dart run flutter_launcher_icons
 
 | Mendatang | Detail | Form usulan | RSVP Saya | Profil (gelap) |
 |---|---|---|---|---|
-| ![](screenshots/1_mendatang.png) | ![](screenshots/2_detail.png) | ![](screenshots/3_form.png) | ![](screenshots/4_rsvp.png) | ![](screenshots/5_profil.png) |
+| ![](screenshots/1_mendatang.jpg) | ![](screenshots/2_detail.jpg) | ![](screenshots/3_form.jpg) | ![](screenshots/4_rsvp.jpg) | ![](screenshots/5_profil.jpg) |
 
 ## Tabel pemenuhan fitur
 
