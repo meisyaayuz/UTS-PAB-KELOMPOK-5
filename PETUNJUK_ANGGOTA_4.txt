@@ -1,0 +1,36 @@
+﻿===================================================================
+PETUNJUK UNTUK ANGGOTA 4 (Form Usulan, Tema, Aset, Testing & README)
+===================================================================
+Tugas: Form usulan acara, halaman profil/tema, aset/ikon, widget test, dan dokumentasi README
+
+LANGKAH PENGERJAAN:
+1. Buka Terminal di folder repository pada laptop Anda, lalu tarik update terbaru:
+
+   git pull origin main
+
+2. Ekstrak file ZIP ini di laptop Anda.
+   Copy seluruh file & folder hasil ekstrak (folder "app", "screenshots", "README.md")
+   ke dalam folder repository (pilih Replace / Timpa jika ditanya).
+
+3. Buka file "README.md" dengan teks editor / VS Code:
+   - Isi nama dan NIM seluruh anggota (1, 2, 3, dan 4) pada tabel anggota di bagian atas.
+
+4. (Opsional/Jika ada) Masukkan foto screenshot aplikasi ke folder "screenshots/":
+   - 1_mendatang.png
+   - 2_detail.png
+   - 3_form.png
+   - 4_rsvp.png
+   - 5_profil.png
+
+5. Buka Terminal di dalam folder repository tersebut, lalu jalankan:
+
+   git add .
+   git commit -m "feat(final): form usulan, tema dinamis, widget tests, dan dokumentasi readme"
+   git push origin main
+
+6. SELESAI!
+   Sekarang di GitHub:
+   - Ada 4 commit terpisah dari masing-masing anggota.
+   - Grafik kontributor GitHub akan mencatat kontribusi 4 orang.
+   - Seluruh anggota bisa menjalankan "git pull origin main" untuk mendapatkan kode final yang 100% lengkap dan siap dijalankan.
+===================================================================
