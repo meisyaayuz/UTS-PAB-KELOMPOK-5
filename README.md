@@ -9,10 +9,10 @@ yang dikelompokkan per tanggal, melakukan RSVP (dengan *undo*), dan mengusulkan 
 
 | Nama | NIM | Tugas |
 |------|-----|-------|
-| _(isi nama)_ | _(isi NIM)_ | Server API (shelf) & data JSON |
-| _(isi nama)_ | _(isi NIM)_ | Model, layanan HTTP, FutureBuilder |
-| _(isi nama)_ | _(isi NIM)_ | Halaman daftar, detail, kartu, RSVP |
-| _(isi nama)_ | _(isi NIM)_ | Form usulan, tema, ikon, test, README |
+| _Fairuzia Meyla Fatinah_ | _102022300245_ | Server API (shelf) & data JSON |
+| _Meisya Ayu Sashipramesuari_ | _102022300147_ | Model, layanan HTTP, FutureBuilder |
+| _I Gusti Ngurah Rai Iswarabhawa_ | _102022300405_ | Halaman daftar, detail, kartu, RSVP |
+| _Lola Anggita Citrawilis_ | _102022300151_ | Form usulan, tema, ikon, test, README |
 
 ## Struktur
 
