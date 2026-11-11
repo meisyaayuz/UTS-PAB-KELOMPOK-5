@@ -1,0 +1,41 @@
+name: agenda_kampus
+description: "Agenda Kampus: acara, seminar, dan RSVP"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.6.0
+  google_fonts: ^8.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+  image: ^4.12.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+# Ikon launcher: dart run flutter_launcher_icons
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/icon/ikon.png"
+  adaptive_icon_background: "#B3261E"
+  adaptive_icon_foreground: "assets/icon/ikon_depan.png"
+  min_sdk_android: 21
+  web:
+    generate: true
+    image_path: "assets/icon/ikon.png"
+    background_color: "#B3261E"
+    theme_color: "#B3261E"
