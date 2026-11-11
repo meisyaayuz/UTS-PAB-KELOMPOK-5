@@ -1,0 +1,142 @@
+[
+  {
+    "id": "acr-001",
+    "judul": "Seminar Nasional AI untuk Pendidikan",
+    "penyelenggara": "Himpunan Mahasiswa Informatika",
+    "jenis": "Seminar",
+    "lokasi": "Aula Gedung TULT Lt. 2",
+    "mulai": "2026-10-20T09:00:00.000",
+    "berbayar": false,
+    "kuota": 300
+  },
+  {
+    "id": "acr-002",
+    "judul": "Lomba Desain Poster Hari Pahlawan",
+    "penyelenggara": "BEM Fakultas Industri Kreatif",
+    "jenis": "Lomba",
+    "lokasi": "Online (Zoom)",
+    "mulai": "2026-11-02T13:00:00.000",
+    "berbayar": false,
+    "kuota": 120
+  },
+  {
+    "id": "acr-003",
+    "judul": "Workshop Flutter: Dari Nol ke Play Store",
+    "penyelenggara": "Google Developer Group on Campus",
+    "jenis": "Workshop",
+    "lokasi": "Lab Mobile TULT-0604",
+    "mulai": "2026-11-14T09:00:00.000",
+    "berbayar": true,
+    "kuota": 40
+  },
+  {
+    "id": "acr-004",
+    "judul": "Konser Amal Malam Puncak Dies Natalis",
+    "penyelenggara": "UKM Musik",
+    "jenis": "Hiburan",
+    "lokasi": "Lapangan Upacara Telkom University",
+    "mulai": "2026-11-14T19:00:00.000",
+    "berbayar": true,
+    "kuota": 1500
+  },
+  {
+    "id": "acr-005",
+    "judul": "Seminar Karier: Siap Kerja di Industri Telko",
+    "penyelenggara": "Career Development Center",
+    "jenis": "Seminar",
+    "lokasi": "Gedung Damar Lt. 1",
+    "mulai": "2026-11-17T10:00:00.000",
+    "berbayar": false,
+    "kuota": 250
+  },
+  {
+    "id": "acr-006",
+    "judul": "Hackathon 24 Jam: Solusi Kampus Hijau",
+    "penyelenggara": "Telkom University Startup Club",
+    "jenis": "Lomba",
+    "lokasi": "Open Library Lt. 3",
+    "mulai": "2026-11-21T08:00:00.000",
+    "berbayar": false,
+    "kuota": 60
+  },
+  {
+    "id": "acr-007",
+    "judul": "Workshop UI/UX dengan Figma",
+    "penyelenggara": "UKM Desain Grafis",
+    "jenis": "Workshop",
+    "lokasi": "Ruang KU3.04.01",
+    "mulai": "2026-11-21T13:00:00.000",
+    "berbayar": true,
+    "kuota": 35
+  },
+  {
+    "id": "acr-008",
+    "judul": "Stand Up Comedy Night Mahasiswa",
+    "penyelenggara": "UKM Teater",
+    "jenis": "Hiburan",
+    "lokasi": "Gedung Serba Guna",
+    "mulai": "2026-11-27T19:30:00.000",
+    "berbayar": true,
+    "kuota": 400
+  },
+  {
+    "id": "acr-009",
+    "judul": "Seminar Keamanan Siber untuk Pemula",
+    "penyelenggara": "Komunitas CyberSec Tel-U",
+    "jenis": "Seminar",
+    "lokasi": "Aula Gedung TULT Lt. 2",
+    "mulai": "2026-12-01T09:00:00.000",
+    "berbayar": false,
+    "kuota": 200
+  },
+  {
+    "id": "acr-010",
+    "judul": "Lomba Debat Bahasa Inggris Antarfakultas",
+    "penyelenggara": "English Debating Society",
+    "jenis": "Lomba",
+    "lokasi": "Gedung Selaru Lt. 4",
+    "mulai": "2026-12-05T08:30:00.000",
+    "berbayar": false,
+    "kuota": 32
+  },
+  {
+    "id": "acr-011",
+    "judul": "Workshop Fotografi Ponsel",
+    "penyelenggara": "UKM Fotografi",
+    "jenis": "Workshop",
+    "lokasi": "Taman Telkom University",
+    "mulai": "2026-12-12T15:00:00.000",
+    "berbayar": false,
+    "kuota": 50
+  },
+  {
+    "id": "acr-012",
+    "judul": "Festival Budaya Nusantara",
+    "penyelenggara": "Ikatan Mahasiswa Daerah",
+    "jenis": "Hiburan",
+    "lokasi": "Lapangan Upacara Telkom University",
+    "mulai": "2026-12-19T16:00:00.000",
+    "berbayar": false,
+    "kuota": 2000
+  },
+  {
+    "id": "acr-013",
+    "judul": "Seminar Riset: Menulis Paper Pertama",
+    "penyelenggara": "Direktorat Penelitian",
+    "jenis": "Seminar",
+    "lokasi": "Online (YouTube Live)",
+    "mulai": "2027-01-09T09:00:00.000",
+    "berbayar": false,
+    "kuota": 1000
+  },
+  {
+    "id": "acr-014",
+    "judul": "Lomba Robot Line Follower",
+    "penyelenggara": "UKM Robotika",
+    "jenis": "Lomba",
+    "lokasi": "Gedung Deli Lt. 1",
+    "mulai": "2027-01-16T08:00:00.000",
+    "berbayar": true,
+    "kuota": 48
+  }
+]
